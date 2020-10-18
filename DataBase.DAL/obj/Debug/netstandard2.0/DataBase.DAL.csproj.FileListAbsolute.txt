@@ -1,0 +1,9 @@
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\bin\Debug\netstandard2.0\DataBase.DAL.deps.json
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\bin\Debug\netstandard2.0\DataBase.DAL.dll
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\bin\Debug\netstandard2.0\DataBase.DAL.pdb
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.csprojAssemblyReference.cache
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.AssemblyInfoInputs.cache
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.AssemblyInfo.cs
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.dll
+C:\Users\Narges\source\repos\school_web\DataBase.DAL\obj\Debug\netstandard2.0\DataBase.DAL.pdb
